@@ -1,0 +1,11 @@
+{
+    "items": [
+      { "id": 1, "name": "Angular", "price": 1500, "image": ""},
+      { "id": 2, "name": "react", "price": 1500, "image": ""},
+      { "id": 3, "name": "vulue", "price": 1500, "image": ""}
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ]
+   
+  }
